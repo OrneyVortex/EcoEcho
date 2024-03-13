@@ -66,5 +66,5 @@ The app provides a calming and positive user interface, encouraging engagement a
   - Utilized within backend logic (Cloud Functions) to trigger notifications based on user activity.
     
  ## Previews
- <img src="link" height="895.94229035167px" width="950px">
+ <img src="https://raw.githubusercontent.com/OrneyVortex/EcoEcho/main/superfinal.png" height="895.94229035167px" width="950px">
 
